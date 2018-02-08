@@ -1,5 +1,5 @@
 # NightOut
-## NightOut is a social app that lets users create a board or event night where they can add things to do for the night. The app Uses REACT framework, mongoDB, and passport npm for user authentication.
+## NightOut is a social app that lets users create a board or event night where they can add things to do for the night. The app Uses REACT framework,google API for address/business lookup, mongoDB, and passport npm for user authentication.
 
 ### Home Page
 
